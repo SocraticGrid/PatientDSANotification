@@ -67,7 +67,7 @@ public class PatientDialogueHelperCallback implements DialogueHelperCallback {
     }
 
     public int getExpectedResponsesNumber() {
-        return 1;
+        return 0;
     }
 
     public long getTimeoutForResponses() {
